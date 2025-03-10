@@ -49,10 +49,9 @@ h1{
 .galeria .foto:nth-of-type(7){grid-area: f7;}
 .galeria .foto:nth-of-type(8){grid-area: f8;}
 
-img{
+.galeria .foto img{
     height: 100%;
     width: 100%;
-    object-fit: contain;
 }
 
 footer{
