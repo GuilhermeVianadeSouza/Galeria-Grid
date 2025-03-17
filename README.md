@@ -1,6 +1,6 @@
 # Galeria-Grid
 
-![![alt text](image.png)] 
+![alt text](image.png)
 
 ## Tecnologias
 * html
